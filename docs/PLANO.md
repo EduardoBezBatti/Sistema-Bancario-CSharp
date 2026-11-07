@@ -4,6 +4,8 @@
 
 Uma aula curta, um exercício, implementação no VS Code pelo aluno, revisão do código e validação. Quando aprovado, atualizar o relatório, fazer commit e enviar ao GitHub. Se houver ajustes, explicá-los e permitir nova tentativa. Dúvidas fazem parte da etapa.
 
+Incluir uma ou duas perguntas curtas de compreensão por vez nas aulas e revisões. O aluno explicará com suas palavras ou preverá o resultado de pequenos trechos. Aguardar sua resposta e esclarecer dúvidas antes de avançar, sem apresentar a resposta junto da pergunta.
+
 ## Etapas previstas
 
 0. Preparação: solução, projetos, Swagger, Angular e documentação.

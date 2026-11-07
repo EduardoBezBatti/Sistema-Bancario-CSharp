@@ -20,6 +20,6 @@ Etapa aprovada: parâmetros nome e email em camelCase, atribuições Nome = nome
 
 Os setters seguem públicos, portanto o chamador ainda pode alterar as propriedades após a criação. Nome e e-mail vazios continuam permitidos. Encapsulamento e validações serão exercícios posteriores. As inicializações com string.Empty foram mantidas conforme o exercício; com atribuições no construtor, elas não são necessárias para satisfazer a inicialização das propriedades.
 
-A explicação conceitual do aluno sobre propriedade e parâmetro ainda não foi coletada; a correção de código foi confirmada.
+Após a aprovação do código, o aluno explicou que a expressão new Usuario("Ana", "ana@exemplo.com") criaria uma variável com esses valores. O tutor esclareceu que a expressão cria um objeto e executa o construtor; a declaração Usuario usuario = ... cria a variável que guarda a referência ao objeto. Foram diferenciados tipo, variável, parâmetros e propriedades. O aluno pediu que perguntas desse estilo sejam incluídas nos próximos exercícios; preferência registrada em AGENTS.md e docs/PLANO.md. A compreensão dessa distinção será retomada nas próximas perguntas.
 
 Commit: `feat: inicializa Usuario com construtor e identificador`.
