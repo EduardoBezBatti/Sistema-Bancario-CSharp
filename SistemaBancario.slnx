@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/SistemaBancario.Api/SistemaBancario.Api.csproj" />
+    <Project Path="backend/SistemaBancario.Application/SistemaBancario.Application.csproj" />
+    <Project Path="backend/SistemaBancario.Domain/SistemaBancario.Domain.csproj" />
+    <Project Path="backend/SistemaBancario.Infrastructure/SistemaBancario.Infrastructure.csproj" />
+  </Folder>
+</Solution>
