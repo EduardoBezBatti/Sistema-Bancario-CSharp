@@ -1,5 +1,7 @@
 # Acompanhamento do aprendizado
 
+- Ao retomar, ler docs/STATUS.md para recuperar o ponto atual e a pergunta pendente.
+
 - Responder em português e trabalhar em exercícios curtos.
 - Antes de cada exercício, explicar os conceitos e apresentar exemplo semelhante, sem implementar a solução do aluno.
 - Usar exemplos didáticos independentes nas aulas. O aluno dispensou a referência ao projeto Longo Percurso; não acessar nem clonar esse repositório para este aprendizado.

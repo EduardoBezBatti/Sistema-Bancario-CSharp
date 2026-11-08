@@ -10,12 +10,12 @@ namespace SistemaBancario.Domain.Entities
         {
             if(string.IsNullOrWhiteSpace(nome))
             {
-                throw new ArgumentException("O nome e obrigatorio", nameof(nome));
+                throw new ArgumentException("O nome e obrigatorio.", nameof(nome));
             }
 
             if (string.IsNullOrWhiteSpace(email))
             {
-                throw new ArgumentException("O email e obrigatorio",nameof(email));
+                throw new ArgumentException("O email e obrigatorio.", nameof(email));
             }
 
             Id = Guid.NewGuid();
