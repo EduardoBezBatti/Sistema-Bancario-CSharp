@@ -14,7 +14,7 @@ namespace SistemaBancario.Domain.Entities
             }
 
             Id = Guid.NewGuid();
-            Nome = nome;
+            Nome = nome.Trim();
             Email = email;
         }
     }
