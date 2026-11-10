@@ -2,8 +2,8 @@
 
 try
 {
-    Usuario usuario = new Usuario("Eduardo", "eduardobezbatti2015@gmail.com");
-    Console.WriteLine("Usuario criado!");
+    Usuario usuario = new Usuario(" Eduardo ", "eduardobezbatti2015@gmail.com");
+    Console.WriteLine($"Nome: [{usuario.Nome}]");
 }
 catch(ArgumentException erro)
 {

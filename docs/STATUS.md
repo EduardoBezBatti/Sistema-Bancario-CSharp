@@ -1,6 +1,6 @@
 # Status e ponto de retomada
 
-Atualizado em 09/11/2026. Aprendizado retomado; etapas 0 a 7 aprovadas.
+Atualizado em 09/11/2026. Aprendizado retomado; etapas 0 a 8 aprovadas.
 
 ## Implementado
 
@@ -14,11 +14,11 @@ Conta, saldo, transferências, conexão PostgreSQL, DbContext, migrations, Repos
 
 Praticados objetos, referências, Guid por valor, string imutável, construtores, propriedades, private set, validações, Trim, throw e try/catch. O aluno explicou corretamente o fluxo de email inválido e o tratamento pelo chamador.
 
-Próxima pergunta: onde colocar Console.WriteLine(usuario.Nome) para exibir o nome normalizado de uma criação válida? Aguardar resposta antes de propor novo exercício. Nenhum exercício posterior foi entregue ou aprovado. Manter perguntas curtas, exemplos independentes e não acessar Longo Percurso.
+O aluno identificou corretamente a leitura de Nome dentro do try após a criação. Implementou a interpolação com colchetes e nome cercado de espaços. Próxima pergunta: quem removeu os espaços, o Console.WriteLine ou o construtor de Usuario? Aguardar resposta antes de propor novo exercício. Manter perguntas curtas, exemplos independentes e não acessar Longo Percurso.
 
 ## Última verificação
 
-Run do Playground compilou e executou a entrega final, código 0: mensagem de email obrigatório com parâmetro email, seguida de Tentativa Concluida. Mensagem de sucesso não exibida. Revisão anterior da solução com dotnet build: zero erros e zero avisos. Nome inválido e dados válidos também foram executados durante as revisões.
+Último run do Playground compilou e executou a etapa 8, código 0: Nome: [Eduardo], seguido de Tentativa Concluida. A etapa 7 verificou o erro de email obrigatório; o cenário atual é válido. Revisão anterior da solução com dotnet build: zero erros e zero avisos. Nome inválido e dados válidos também foram executados durante as revisões.
 
 Detalhes de estilo pendentes: espaço após catch e if do nome e acentuação de mensagens. Tutor não modificou o código do aluno.
 
